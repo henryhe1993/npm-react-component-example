@@ -1,0 +1,33 @@
+{
+  "name": "henryhe1993-react-component",
+  "version": "0.0.1",
+  "description": "Put a description here",
+  "main": "build/index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "peerDependencies": {
+    "react": "^16.8.1"
+  },
+  "dependencies": {
+    "react": "^16.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "author": {
+    "name": "henryhe1993",
+    "email": "henryhe1993@gmail.com"
+  },
+  "devDependencies": {
+    "webpack": "^2.6.1",
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1"
+  }
+}
