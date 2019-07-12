@@ -1,6 +1,6 @@
 {
-  "name": "henryhe1993-react-component",
-  "version": "0.0.1",
+  "name": "henryhe-first-test-npm-publish",
+  "version": "0.0.4",
   "description": "Put a description here",
   "main": "build/index.js",
   "publishConfig": {
