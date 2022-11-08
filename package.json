@@ -22,7 +22,7 @@
     "email": "henryhe1993@gmail.com"
   },
   "devDependencies": {
-    "webpack": "^2.6.1",
+    "webpack": "^5.74.0",
     "babel-cli": "^6.24.1",
     "babel-core": "^6.24.1",
     "babel-loader": "^7.0.0",
